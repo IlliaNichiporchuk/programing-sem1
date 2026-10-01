@@ -1,0 +1,11 @@
+*.exe
+*.out
+*.app
+
+*.o
+*.obj
+*.i
+*.s
+
+.vscode/
+.idea/
